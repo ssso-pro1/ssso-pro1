@@ -1,4 +1,4 @@
-### Hey, this is Soyeon 👋
+### 👋 Hey, this is Soyeon 
 
 <!--
 **ssso-pro1/ssso-pro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📚 I’m currently learning : React and Algorithm 
 - 📫 Contact me: ssso.pro1@gmail.com
+- 💻 Check out my : **[Portfolio Web](https://musing-swirles-3a6ce5.netlify.app/)** | **[Blog](https://ssso-pro.tistory.com/)**
 
 ### ⚡ Tech Stack
 Techs that I've strength on <br>
