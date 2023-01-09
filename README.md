@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 📫 Contact me: ssso.pro1@gmail.com
-- 💻 Check out my : **[Portfolio Web](https://musing-swirles-3a6ce5.netlify.app/)** | **[Blog](https://ssso-pro.tistory.com/)**
 
 ### ⚡ Tech Stack
 Techs that I've strength on <br>
