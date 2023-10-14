@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 Contact me: ssso.pro1@gmail.com
 
 ### ⚡ Tech Stack
 Techs that I've strength on <br>
